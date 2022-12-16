@@ -1,4 +1,4 @@
-## Oii! Eu sou o Leonardo, bem vindo ao meu perfil.
+## Oi, me chamo Leonardo, bem vindo ao meu perfil.
 
  <div>
   <a href="https://github.com/leosmsilvx">
